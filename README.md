@@ -525,4 +525,3 @@ Then, the *spatial constness* and *volume & surface integration over the sphere*
 
 # FIRST ORDER SYSTEM OF ODEs
 TBD
-
